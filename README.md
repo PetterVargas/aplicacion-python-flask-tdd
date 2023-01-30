@@ -25,7 +25,7 @@ El skeleton base para un servicio web en python, teniendo como micro-framework w
 Este servicio utiliza los siguientes requerimientos:
 
 1. Python v3.10.4
-1. Flask v2.1.1 (Inicialmente 1.0.0 para encontrar vulnerabilidades)
+1. Flask v0.1 (Inicialmente para encontrar vulnerabilidades)
 1. Flask-SQLAlchemy v2.5.1
 1. Gunicorn v20.1.0
 1. Psycopg2 v2.9.3
