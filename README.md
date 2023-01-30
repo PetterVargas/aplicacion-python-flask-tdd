@@ -52,7 +52,7 @@ Cree y active el entorno virtual.
 
 ```sh
 $ python3.10 -m venv venv
-$ source env/bin/activate
+$ source venv/bin/activate
 (env)$
 ```
 
